@@ -1,4 +1,4 @@
-## Hello, welcome to my GitHub profile. 👋
+## Hi 👋
 
 Currently learning React and Node.js while working on my personal projects.
 
